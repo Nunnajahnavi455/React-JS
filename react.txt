@@ -1,0 +1,9 @@
+step1:
+npx create-react-app  project1
+
+step2:
+cd project1
+
+step3: code .
+
+step4:npm start
