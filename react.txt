@@ -7,3 +7,19 @@ cd project1
 step3: code .
 
 step4:npm start
+
+
+
+------------------------------------------------------------
+
+state?
+Component own data.
+How to modify state?
+class component     functional component
+ state                 use state()
+ set state()
+-------------------------------------------------------------
+life cycle methods:-
+1)convert property to state object function
+2)how to update state
+set state
